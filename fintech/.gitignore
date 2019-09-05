@@ -1,0 +1,4 @@
+# ignore node_modules,
+node_modules
+# except foo.html which is maintained by hand
+!foo.html
